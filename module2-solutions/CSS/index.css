@@ -40,6 +40,7 @@
       padding: 5px;
       border-bottom: 1px solid;
       border-left: 1px solid;
+      font-weight: bold;
   }
   .description {
       padding: 15px 10px;
